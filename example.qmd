@@ -1,0 +1,15 @@
+---
+title: "Guide for Git"
+author: "Ibtesam Ifaz"
+format: html
+---
+
+# Introduction
+A line added for example
+
+# Knitted HTML Result
+
+Here is the rendered HTML output from our simple Quarto document:
+
+![](SS_qmd.png)
+
